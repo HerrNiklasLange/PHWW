@@ -1,0 +1,58 @@
+.logo h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 1.5em;
+}
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+main {
+    flex: 1;
+}
+.max-800px {
+    max-width: 1600px;
+}
+.author-image {
+    object-fit: cover;
+    border-radius: 50%;
+    width: 48px;
+    height: 48px;
+}
+.narrow-background {
+    display: table;
+    padding: 0.1em;
+}
+.map-responsive {
+    overflow: hidden;
+    padding-bottom: 100%;
+    position: relative;
+    height: 0;
+}
+
+.map-responsive iframe {
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+}
+
+.hub {
+    display: block;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 20vw;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
+  .hub span:nth-child(2) {
+    background: #FF9900;
+    color: #000000;
+    border-radius: 1vw;
+    padding: 0 1vw 1vw 1vw;
+    display: inline-block;
+  }

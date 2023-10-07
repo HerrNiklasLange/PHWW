@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>What is happening on the hub?</title>
+    <link>http://whatisonthehub.com/</link>
+    <description>Recent content on What is happening on the hub?</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 23 May 2022 21:40:16 +0100</lastBuildDate><atom:link href="http://whatisonthehub.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://whatisonthehub.com/privacy/</link>
+      <pubDate>Sat, 28 May 2022 19:58:19 +0100</pubDate>
+      
+      <guid>http://whatisonthehub.com/privacy/</guid>
+      <description>Privacy Policy At ScotlandStats, accessible from https://www.scotlandstats.com, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by ScotlandStats and how we use it.
+If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us through email at ScotlandStats@gmail.com
+General Data Protection Regulation (GDPR) We are a Data Controller of your information.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://whatisonthehub.com/main/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://whatisonthehub.com/main/</guid>
+      <description>Most viewed per category Today Weekly Top 5 over the last 7 days Today Weekly </description>
+    </item>
+    
+  </channel>
+</rss>

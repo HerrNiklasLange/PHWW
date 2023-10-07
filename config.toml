@@ -1,0 +1,18 @@
+baseURL = 'http://whatisonthehub.com/'
+languageCode = 'en-us'
+title = 'What is happening on the hub?'
+theme = "bloggeri"
+
+paginate = 4
+
+
+# If porting an existing theme
+[original]
+  name = ""
+  homepage = ""
+  repo = ""
+
+[params]
+  description = "Updates everyday to show you what is the most viewed videos on the hub for all the countries available"
+  
+  
