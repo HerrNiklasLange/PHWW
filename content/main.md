@@ -11,4 +11,4 @@ heroimage: /images/home1.jpg
 
 ### NOTE:
 This is a work in progress and currently it is very basic and needs a lot more work
-This is version 0.1
+This is version 0.1.1
