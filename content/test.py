@@ -10,7 +10,13 @@ while (x == True):
         os.system("git commit -m'DailyUpdate'")
         os.system("git push origin main")
         time.sleep(60)
-
+    # note one hour behind
+    elif (strftime("%H:%M", gmtime()) == "11:00"):
+        print("It works")
+        os.system("git add .")
+        os.system("git commit -m'DailyUpdate'")
+        os.system("git push origin main")
+        time.sleep(60)
     #else: # (strftime("%H:%M", gmtime()) == "2:40"):
         #import pandas as pd
         # read by default 1st sheet of an excel file
