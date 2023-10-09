@@ -11,7 +11,7 @@ while (x == True):
         os.system("git push origin main")
         time.sleep(60)
     # note one hour behind
-    elif (strftime("%H:%M", gmtime()) == "11:00"):
+    elif (strftime("%H:%M", gmtime()) == "18:40"):
         print("It works")
         os.system("git add .")
         os.system("git commit -m'DailyUpdate'")
