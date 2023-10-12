@@ -15,4 +15,7 @@ paginate = 4
 [params]
   description = "Updates everyday to show you what is the most viewed videos on the hub for all the countries available"
   
+[[menu.main]]
+  name = "Donate"
+  url = "https://www.paypal.com/donate/?hosted_button_id=QHECN4KNWDCTW"
   
