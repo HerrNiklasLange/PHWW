@@ -4,14 +4,14 @@ while (x == True):
     import time
     from time import gmtime, strftime
     # note one hour behind
-    if (strftime("%H:%M", gmtime()) == "12:00"):
+    if (strftime("%H:%M", gmtime()) == "12:01"):
         print("It works")
         os.system("git add .")
         os.system("git commit -m'DailyUpdate'")
         os.system("git push origin main")
         time.sleep(60)
     # note one hour behind
-    elif (strftime("%H:%M", gmtime()) == "00:27"):
+    elif (strftime("%H:%M", gmtime()) == "11:00"):
         print("It works")
         os.system("git add .")
         os.system("git commit -m'DailyUpdate'")
