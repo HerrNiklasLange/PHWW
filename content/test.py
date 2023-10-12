@@ -4,7 +4,7 @@ while (x == True):
     import time
     from time import gmtime, strftime
     # note one hour behind
-    if (strftime("%H:%M", gmtime()) == "12:01"):
+    if (strftime("%H:%M", gmtime()) == "18:45"):
         print("It works")
         os.system("git add .")
         os.system("git commit -m'DailyUpdate'")
