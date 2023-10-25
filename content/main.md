@@ -24,7 +24,7 @@ This delay happens as the data collection takes time and our aim to webscrap at 
 This is a work in progress and currently it is very basic and needs a lot more work.
 
 
-This is version 0.1.1
+This is version 0.1.2
 
 ## SUPPORT:
 This project is run by one person who is interested in data analysis and exploration
