@@ -5,8 +5,49 @@ heroimage: /images/home1.jpg
 See the number one most viewed video for each country
 ### Today
 ![image](/images/main/dailyWorldMap.jpeg)
+
+
+
+![image](/images/main/daily/world-dailytop5Last7Days.jpeg)
 ### Weekly
 ![image](/images/main/weeklyWorldMap.jpeg)
+
+
+## Country details
+
+### North America
+
+- [Canada](/country/canada)
+- [USA](/country/usa)
+- [Mexico](/country/mexico)
+
+
+### South America
+
+- [Argentina](/country/argentina)
+- [Brazil](/country/brazil)
+- [Chile](/country/chile)
+
+
+### Europe
+Empty for now working on it currently
+
+### Africa
+- [Egypt](/country/egypt)
+- [Morocco](/country/morocco)
+
+
+### Asia
+
+- [India](/country/india)
+- [Japan](/country/japan)
+- [Pakistan](/country/pakistan)
+- [South Korea](/country/southkorea)
+
+### Australasia
+
+- [Australia](/country/austrilia)
+- [New Zealand](/country/newzeleand)
 
 # How do we get the data
 We get the data by scrapping Pornhub everyday twice a day.
@@ -24,7 +65,7 @@ This delay happens as the data collection takes time and our aim to webscrap at 
 This is a work in progress and currently it is very basic and needs a lot more work.
 
 
-This is version 0.1.2
+This is version 0.2
 
 ## SUPPORT:
 This project is run by one person who is interested in data analysis and exploration
