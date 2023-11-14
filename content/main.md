@@ -46,8 +46,8 @@ Empty for now working on it currently
 
 ### Australasia
 
-- [Australia](/country/austrilia)
-- [New Zealand](/country/newzeleand)
+- [Australia](/country/australia)
+- [New Zealand](/country/newzealand)
 
 # How do we get the data
 We get the data by scrapping Pornhub everyday twice a day.

@@ -1,5 +1,4 @@
-x = True
-while (x == True):
+while (True):
     import os
     import time
     from time import gmtime, strftime
