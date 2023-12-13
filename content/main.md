@@ -23,14 +23,35 @@ See the number one most viewed video for each country
 
 
 ### South America
-
 - [Argentina](/country/argentina)
 - [Brazil](/country/brazil)
 - [Chile](/country/chile)
 
-
 ### Europe
-Empty for now working on it currently
+- [Austria](/country/austria)
+- [Belgium](/country/belgium)
+- [Bulgaria](/country/bulgaria)
+- [Croatia](/country/crotia)
+- [Czech Republic](/country/czech)
+- [Denmark](/country/denmark)
+- [Finland](/country/finland)
+- [France](/country/france)
+- [Germany](/country/germany)
+- [Greece](/country/greece)
+- [Hungary](/country/hungary)
+- [Ireland](/country/ireland)
+- [Italy](/country/italy)
+- [Netherlands](/country/netherlands)
+- [Norway](/country/norway)
+- [Poland](/country/poland)
+- [Portugal](/country/portugal)
+- [Romania](/country/romania)
+- [Russua](/country/russia)
+- [Serbia](/country/serbia)
+- [Slovakia](/country/slovakia)
+- [Spain](/country/spain)
+- [Ukraine](/country/ukraine)
+- [United Kingdom](/country/uk)
 
 ### Africa
 - [Egypt](/country/egypt)
