@@ -12,6 +12,15 @@ See the number one most viewed video for each country
 ### Weekly
 ![image](/images/main/weeklyWorldMap.jpeg)
 
+### Monthly
+![image](/images/main/monthlyWorldMap.jpeg)
+Note: updates on every even day
+
+
+### Yearly
+![image](/images/main/yearyWorldMap.jpeg)
+Note: updates every Sunday
+
 
 ## Country details
 
@@ -86,7 +95,7 @@ This delay happens as the data collection takes time and our aim to webscrap at 
 This is a work in progress and currently it is very basic and needs a lot more work.
 
 
-This is version 0.2
+This is version 0.2.1
 
 ## SUPPORT:
 This project is run by one person who is interested in data analysis and exploration
