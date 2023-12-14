@@ -55,7 +55,7 @@ Note: updates every Sunday
 - [Poland](/country/poland)
 - [Portugal](/country/portugal)
 - [Romania](/country/romania)
-- [Russua](/country/russia)
+- [Russia](/country/russia)
 - [Serbia](/country/serbia)
 - [Slovakia](/country/slovakia)
 - [Spain](/country/spain)
