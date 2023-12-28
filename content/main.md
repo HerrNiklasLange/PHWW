@@ -83,10 +83,10 @@ Note: updates every Sunday
 We get the data by scrapping Pornhub everyday twice a day.
 
 
-Once in the morning - around 4.30am EDT and update our website around 8am EDT.
+Once in the morning - around 3.30am EDT and update our website around 9am EDT.
 
 
-Once in the evenings - around 4.30pm and update our website around 8pm EDT.
+Once in the evenings - around 3.30pm and update our website around 9pm EDT.
 
 
 
