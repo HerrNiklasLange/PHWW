@@ -18,7 +18,7 @@ Note: updates on every even day
 
 
 ### Yearly
-![image](/images/main/yearyWorldMap.jpeg)
+![image](/images/main/yearlyWorldMap.jpeg)
 Note: updates every Sunday
 
 
